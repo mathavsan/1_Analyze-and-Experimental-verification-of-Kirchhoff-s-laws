@@ -35,7 +35,7 @@ To verify Kirchhoff’s Voltage Law by measuring the voltages across each resist
 ---
 
 ### **Tabular Column**
-<img width="556" height="236" alt="image" src="https://github.com/user-attachments/assets/90b02674-4d2f-48a9-82a9-719b394b1503" />
+<img width="555" height="228" alt="image" src="https://github.com/user-attachments/assets/7fa7a06a-98ad-44c6-9062-b318cd6ea398" />
 
 ---
 
