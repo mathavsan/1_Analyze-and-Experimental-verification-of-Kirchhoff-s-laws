@@ -40,12 +40,12 @@ To verify Kirchhoff’s Voltage Law by measuring the voltages across each resist
 ---
 
 ### **Theoretical Calculation**
-![WhatsApp Image 2025-11-27 at 11 20 37_c3d1beef](https://github.com/user-attachments/assets/39982a71-7059-42aa-9c0a-7339cb35c540)
+<img width="617" height="891" alt="image" src="https://github.com/user-attachments/assets/d42087f4-3528-461a-ab07-2b152234cf5e" />
 
 ---
 
 ### **Practical Readings**
-<img width="878" height="108" alt="image" src="https://github.com/user-attachments/assets/b0d5ad44-3521-4080-9b5e-ea640415fd9d" />
+<img width="567" height="68" alt="image" src="https://github.com/user-attachments/assets/4a6d5fcf-4f97-411e-a20c-81f9ce3afd1b" />
 
 ---
 
@@ -99,12 +99,12 @@ To verify Kirchhoff’s Current Law by measuring currents at a junction and show
 ---
 
 ### **Theoretical Calculation**
-![WhatsApp Image 2025-11-27 at 11 22 23_c47c712e](https://github.com/user-attachments/assets/f79c6b7a-dc50-4347-9aa0-a159f79489ec)
+<img width="548" height="703" alt="image" src="https://github.com/user-attachments/assets/24386e70-709d-4351-83d6-6fd5cbbcbdc3" />
 
 ---
 
 ### **Practical Readings**
-<img width="955" height="115" alt="image" src="https://github.com/user-attachments/assets/5d954a4a-8d54-469b-b5d4-88ae49d97fbf" />
+<img width="551" height="70" alt="image" src="https://github.com/user-attachments/assets/6aca8b9d-c2b8-4e12-b11b-2bfddeb6c907" />
 
 ---
 
